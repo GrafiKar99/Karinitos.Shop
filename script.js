@@ -63,8 +63,8 @@ const products=[
   name:"Perfume BVLGARI de 100 ml®",
   category:"Perfumería",
   price:87000,
-  images:["Imagenes/Productos/Perfumería/Perfume BVLGARI de 100 ml®.jpg",
-          "Imagenes/Productos/Perfumería/Perfume BVLGARI de 100 ml®. 2.jpg"]},
+  images:["Imagenes/Productos/Perfumería/bvlgari-man-glacial-essence.jpg.jpg",
+          "Imagenes/Productos/Perfumería/bvlgari-man-glacial-essence.jpg.jpg"]},
 
  {id:10,
   name:"Brocha mágica®",
