@@ -296,7 +296,7 @@ const products=[
   price:132000,
   images:["Imagenes/Productos/Herramientas/Kit Taladro Percutor Inalámbrico 48V con 25 Accesorios®.jpeg",
           "Imagenes/Productos/Herramientas/Kit Taladro Percutor Inalámbrico 48V con 25 Accesorios®.jpeg"]},   
-          
+
 ];
 
 let cart=JSON.parse(localStorage.getItem("karinitosCart")||"[]"), activeCategory="Todas";
