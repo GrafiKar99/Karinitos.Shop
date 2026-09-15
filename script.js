@@ -210,8 +210,8 @@ const products=[
   name:"Aceite de Batana 100% Puro y Natural®",
   category:"Cuidado Capilar",
   price:50000,
-  images:["Imagenes/Productos/Cuidado Capilar/Aceite de Batana 100% Puro y Natural®.jfif",
-          "Imagenes/Productos/Cuidado Capilar/Aceite de Batana 100% Puro y Natural®.jfif"]}, 
+  images:["Imagenes/Productos/Cuidado Capilar/Aceite-batana.png",
+          "Imagenes/Productos/Cuidado Capilar/Aceite-batana.png"]}, 
 
 {id:31,
   name:"Bebida Anti-Estrés MaxCalm (MaxCalm Relaxing Drink Mix)®",
