@@ -21,8 +21,8 @@ const products=[
   name:"Dúo de Hyaluronic Acid 2% + B5 & AHA 30% + BHA 2% Peeling Solution de The Ordinary®",
   category:"Skincare",
   price:77000,
-  images:["Imagenes/Productos/Skincare/Dúo de Hyaluronic®.jpg",
-          "Imagenes/Productos/Skincare/Dúo de Hyaluronic®.jpg"]},
+  images:["Imagenes/Productos/Skincare/Serum duo.jpg",
+          "Imagenes/Productos/Skincare/Serum duo.jpg"]},
 
  {id:4,
   name:"Gafas unisex de PRADA®",
