@@ -296,7 +296,27 @@ const products=[
   price:132000,
   images:["Imagenes/Productos/Herramientas/Kit Taladro Percutor Inalámbrico 48V con 25 Accesorios®.jpeg",
           "Imagenes/Productos/Herramientas/Kit Taladro Percutor Inalámbrico 48V con 25 Accesorios®.jpeg"]},   
-          
+
+ {id:43,
+  name:"Crema elixir Anti-Edad con extracto de Cebolla Roja®",
+  category:"Skincare",
+  price:52000,
+  images:["Imagenes/Productos/Skincare/Crema elixir Anti-Edad con extracto de Cebolla Roja®.jpeg",
+          "Imagenes/Productos/Skincare/Crema elixir Anti-Edad con extracto de Cebolla Roja® 2.jpeg"]},   
+
+{id:44,
+  name:"Espuma limpiadora facial®",
+  category:"Skincare",
+  price:84000,
+  images:["Imagenes/Productos/Skincare/Espuma limpiadora facial®.jpeg",
+          "Imagenes/Productos/Skincare/Espuma limpiadora facial® 2.jpeg"]},   
+
+{id:45,
+  name:"Limpiador hidratante & Refrescante de placenta®",
+  category:"Skincare",
+  price:50000,
+  images:["Imagenes/Productos/Skincare/Limpiador hidratante & Refrescante de placenta®.jpeg",
+          "Imagenes/Productos/Skincare/Limpiador hidratante & Refrescante de placenta® 2.jpeg"]},
 ];
 
 let cart=JSON.parse(localStorage.getItem("karinitosCart")||"[]"), activeCategory="Todas";
