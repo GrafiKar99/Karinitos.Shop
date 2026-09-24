@@ -317,6 +317,28 @@ const products=[
   price:50000,
   images:["Imagenes/Productos/Skincare/Limpiador hidratante & Refrescante de placenta®.jpeg",
           "Imagenes/Productos/Skincare/Limpiador hidratante & Refrescante de placenta® 2.jpeg"]},
+
+ {id:46,
+  name:"Kit masculino casual (Gorra, Bolso, Billetera)®",
+  category:"Accesorios",
+  price:128000,
+  images:["Imagenes/Productos/Accesorios/Kit masculino casual (Gorra, Bolso, Billetera)®.jfif",
+          "Imagenes/Productos/Accesorios/Kit masculino casual (Gorra, Bolso, Billetera)® 2.jfif"]}, 
+          
+{id:47,
+  name:"Gafas de sol redondas de estilo retro®",
+  category:"Accesorios",
+  price:60000,
+  images:["Imagenes/Productos/Accesorios/Gafas de sol redondas de estilo retro®.jfif",
+          "Imagenes/Productos/Accesorios/Gafas de sol redondas de estilo retro® 2.jfif"]}, 
+          
+{id:48,
+  name:"Collar gargantilla Alas de ángel con Piedra bailarina®",
+  category:"Accesorios",
+  price:50000,
+  images:["Imagenes/Productos/Accesorios/Collar gargantilla Alas de angel con Piedra bailarina®.jfif",
+          "Imagenes/Productos/Accesorios/Collar gargantilla Alas de angel con Piedra bailarina® 2.jfif"]}, 
+
 ];
 
 let cart=JSON.parse(localStorage.getItem("karinitosCart")||"[]"), activeCategory="Todas";
