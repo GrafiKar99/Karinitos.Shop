@@ -336,8 +336,8 @@ const products=[
   name:"Collar gargantilla Alas de ángel con Piedra bailarina®",
   category:"Accesorios",
   price:50000,
-  images:["Imagenes/Productos/Accesorios/Collar gargantilla Alas de angel con Piedra bailarina®.jfif",
-          "Imagenes/Productos/Accesorios/Collar gargantilla Alas de angel con Piedra bailarina® 2.jfif"]}, 
+  images:["Imagenes/Productos/Accesorios/Collar gargantilla Alas de angel con Piedra bailarina®.png",
+          "Imagenes/Productos/Accesorios//Collar gargantilla Alas de angel con Piedra bailarina® 2.png"]}, 
 
 ];
 
