@@ -339,6 +339,27 @@ const products=[
   images:["Imagenes/Productos/Accesorios/Collar gargantilla Alas de angel con Piedra bailarina®.png",
           "Imagenes/Productos/Accesorios//Collar gargantilla Alas de angel con Piedra bailarina® 2.png"]}, 
 
+ {id:49,
+  name:"9 Am - Pour femme 100 ml®",
+  category:"Perfumería",
+  price:100000,
+  images:["Imagenes/Productos/Perfumería/9 Am - Pour femme 100 ml®.jpg",
+          "Imagenes/Productos/Perfumería/9 Am - Pour femme 100 ml® 2.jpg"]},   
+
+{id:50,
+  name:"Odyssey tyrant - Edición especial de 100 ml®",
+  category:"Perfumería",
+  price:100000,
+  images:["Imagenes/Productos/Perfumería/Odyssey tyrant - Edicion especial de 100 ml®.jpg",
+          "Imagenes/Productos/Perfumería/Odyssey tyrant - Edicion especial de 100 ml® 2.jpg"]},   
+
+{id:51,
+  name:"Scuderi Ferrary Black 125 ml®",
+  category:"Perfumería",
+  price:103000,
+  images:["Imagenes/Productos/Perfumería/Scuderi Ferrary Black 125 ml®.jpg",
+          "Imagenes/Productos/Perfumería/Scuderi Ferrary Black 125 ml® 2.jpg"]},   
+
 ];
 
 let cart=JSON.parse(localStorage.getItem("karinitosCart")||"[]"), activeCategory="Todas";
