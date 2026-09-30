@@ -358,7 +358,28 @@ const products=[
   category:"Perfumería",
   price:103000,
   images:["Imagenes/Productos/Perfumería/Scuderi Ferrary Black 125 ml®.jpg",
-          "Imagenes/Productos/Perfumería/Scuderi Ferrary Black 125 ml® 2.jpg"]},   
+          "Imagenes/Productos/Perfumería/Scuderi Ferrary Black 125 ml® 2.jpg"]},
+
+ {id:52,
+  name:"Base de maquillaje (Moisture cushion cc cream)®",
+  category:"Maquillaje",
+  price:55000,
+  images:["Imagenes/Productos/Maquillaje/Base de maquillaje (Moisture cushion cc cream)®.jpg",
+          "Imagenes/Productos/Maquillaje/Base de maquillaje (Moisture cushion cc cream)® 2.jpg"]},   
+          
+{id:53,
+  name:"Pompon cotton - Iluminador corporal®",
+  category:"Maquillaje",
+  price:57000,
+  images:["Imagenes/Productos/Maquillaje/Pompon cotton - Iluminador corporal®.jpg",
+          "Imagenes/Productos/Maquillaje/Pompon cotton - Iluminador corporal® 2.jpg"]},   
+          
+{id:54,
+  name:"Lápiz de maquillaje 4 en 1 retráctil®",
+  category:"Maquillaje",
+  price:60000,
+  images:["Imagenes/Productos/Maquillaje/Lápiz de maquillaje 4 en 1 retráctil®.jpg",
+          "Imagenes/Productos/Maquillaje/Lápiz de maquillaje 4 en 1 retráctil® 2.jpg"]},             
 
 ];
 
