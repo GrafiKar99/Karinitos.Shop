@@ -379,7 +379,28 @@ const products=[
   category:"Maquillaje",
   price:60000,
   images:["Imagenes/Productos/Maquillaje/Lápiz de maquillaje 4 en 1 retráctil®.jpg",
-          "Imagenes/Productos/Maquillaje/Lápiz de maquillaje 4 en 1 retráctil® 2.jpg"]},             
+          "Imagenes/Productos/Maquillaje/Lápiz de maquillaje 4 en 1 retráctil® 2.jpg"]}, 
+
+ {id:55,
+  name:"Colección exclusiva Nike ZOOM X®",
+  category:"Calzado",
+  price:110000,
+  images:["Imagenes/Productos/Calzado/Coleccion exclusiva Nike ZOOM X.png",
+          "Imagenes/Productos/Calzado/Coleccion exclusiva Nike ZOOM X.png"]},
+          
+{id:56,
+  name:"Botas Cat®",
+  category:"Calzado",
+  price:126000,
+  images:["Imagenes/Productos/Calzado/Botas Cat.png",
+          "Imagenes/Productos/Calzado/Botas Cat.png"]},
+          
+{id:57,
+  name:"Colección NIKE DUNK LOW®",
+  category:"Calzado",
+  price:110000,
+  images:["Imagenes/Productos/Calzado/Colección NIKE DUNK LOW.png",
+          "Imagenes/Productos/Calzado/Colección NIKE DUNK LOW.png"]},          
 
 ];
 
