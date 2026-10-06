@@ -400,7 +400,28 @@ const products=[
   category:"Calzado",
   price:110000,
   images:["Imagenes/Productos/Calzado/Colección NIKE DUNK LOW.png",
-          "Imagenes/Productos/Calzado/Colección NIKE DUNK LOW.png"]},          
+          "Imagenes/Productos/Calzado/Colección NIKE DUNK LOW.png"]},
+
+ {id:58,
+  name:"Zapatero & Perchero de 5 niveles con doble barra®",
+  category:"Hogar",
+  price:82000,
+  images:["Imagenes/Productos/Hogar/Zapatero & Perchero de 5 niveles con doble barra®.png",
+          "Imagenes/Productos/Hogar/Zapatero & Perchero de 5 niveles con doble barra® 2.png"]},
+          
+{id:59,
+  name:"Armario de tela con cierre de cremallera y estante®",
+  category:"Hogar",
+  price:90000,
+  images:["Imagenes/Productos/Hogar/Armario de tela con cierre de cremallera y estante®.png",
+          "Imagenes/Productos/Hogar/Armario de tela con cierre de cremallera y estante® 2.png"]},
+
+{id:60,
+  name:"Chimenea portátil de bioetanol - Flamera Pro®",
+  category:"Hogar",
+  price:100000,
+  images:["Imagenes/Productos/Hogar/Chimenea portátil de bioetanol Flamera Pro®.png",
+          "Imagenes/Productos/Hogar/Chimenea portátil de bioetanol Flamera Pro® 2.png"]},    
 
 ];
 
