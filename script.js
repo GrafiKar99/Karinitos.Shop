@@ -423,6 +423,27 @@ const products=[
   images:["Imagenes/Productos/Hogar/Chimenea portátil de bioetanol Flamera Pro®.png",
           "Imagenes/Productos/Hogar/Chimenea portátil de bioetanol Flamera Pro® 2.png"]},    
 
+{id:61,
+  name:"Prensa de Ajo, Tipo balancín®",
+  category:"Cocina",
+  price:50000,
+  images:["Imagenes/Productos/Cocina/Prensa de Ajo, Tipo balancín®.png",
+          "Imagenes/Productos/Cocina/Prensa de Ajo, Tipo balancín® 2.jpg"]},
+
+{id:62,
+  name:"Dispensador doble de alimentos secos®",
+  category:"Cocina",
+  price:100000,
+  images:["Imagenes/Productos/Cocina/Dispensador doble de alimentos secos®.png",
+          "Imagenes/Productos/Cocina/Dispensador doble de alimentos secos®.png"]},
+          
+{id:63,
+  name:"Crespetera eléctrica a aire caliente®",
+  category:"Cocina",
+  price:100000,
+  images:["Imagenes/Productos/Cocina/Crespetera elélectrica a aire caliente®.png",
+          "Imagenes/Productos/Cocina/Crespetera elélectrica a aire caliente® 2.png"]}, 
+ 
 ];
 
 let cart=JSON.parse(localStorage.getItem("karinitosCart")||"[]"), activeCategory="Todas";
