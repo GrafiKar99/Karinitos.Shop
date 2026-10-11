@@ -465,6 +465,27 @@ const products=[
   images:["Imagenes/Productos/Mascotas/Guante quita pelos de mascotas®.png",
           "Imagenes/Productos/Mascotas/Guante quita pelos de mascotas®.png"]},           
 
+{id:67,
+  name:"Diademas AirPods Max®",
+  category:"Tecnología",
+  price:114000,
+  images:["Imagenes/Productos/Tecnología/Diademas AirPods Max®.png",
+          "Imagenes/Productos/Tecnología/Diademas AirPods Max® 2.png"]},   
+          
+{id:68,
+  name:"Masajeador de manos inalámbrico inteligente & Compresio de calor®",
+  category:"Tecnología",
+  price:120000,
+  images:["Imagenes/Productos/Tecnología/Masajeador de manos inalámbrico inteligente & Compresio de calor®.png",
+          "Imagenes/Productos/Tecnología/Masajeador de manos inalámbrico inteligente & Compresio de calor®.png"]},   
+          
+{id:69,
+  name:"Calentador de manos magnético recargable 2 en 1®",
+  category:"Tecnología",
+  price:76000,
+  images:["Imagenes/Productos/Tecnología/Calentador de manos magnético recargable 2 en 1®.png",
+          "Imagenes/Productos/Tecnología/Calentador de manos magnético recargable 2 en 1® 2.png"]},   
+ 
 ];
 
 let cart=JSON.parse(localStorage.getItem("karinitosCart")||"[]"), activeCategory="Todas";
