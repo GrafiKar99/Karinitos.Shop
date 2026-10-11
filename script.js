@@ -444,6 +444,27 @@ const products=[
   images:["Imagenes/Productos/Cocina/Crespetera elélectrica a aire caliente®.png",
           "Imagenes/Productos/Cocina/Crespetera elélectrica a aire caliente® 2.png"]}, 
  
+ {id:64,
+  name:"Correa doble (Retractil, Linterna, Dispensador de bolsas)®",
+  category:"Mascotas",
+  price:82000,
+  images:["Imagenes/Productos/Mascotas/Correa doble (Retractil, Linterna, Dispensador de bolsas)®.png",
+          "Imagenes/Productos/Mascotas/Correa doble (Retractil, Linterna, Dispensador de bolsas)® 2.png"]}, 
+          
+{id:65,
+  name:"Secador & Cepillo 2 en 1 para tu mascota®",
+  category:"Mascotas",
+  price:70000,
+  images:["Imagenes/Productos/Mascotas/Secador & Cepillo 2 en 1 para tu mascota®.png",
+          "Imagenes/Productos/Mascotas/Secador & Cepillo 2 en 1 para tu mascota® 2.png"]}, 
+          
+{id:66,
+  name:"Guante quita pelos de mascotas®",
+  category:"Mascotas",
+  price:55000,
+  images:["Imagenes/Productos/Mascotas/Guante quita pelos de mascotas®.png",
+          "Imagenes/Productos/Mascotas/Guante quita pelos de mascotas®.png"]},           
+
 ];
 
 let cart=JSON.parse(localStorage.getItem("karinitosCart")||"[]"), activeCategory="Todas";
