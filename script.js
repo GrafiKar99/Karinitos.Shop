@@ -485,7 +485,28 @@ const products=[
   price:76000,
   images:["Imagenes/Productos/Tecnología/Calentador de manos magnético recargable 2 en 1®.png",
           "Imagenes/Productos/Tecnología/Calentador de manos magnético recargable 2 en 1® 2.png"]},   
- 
+
+ {id:70,
+  name:"Batido de multicolágeno hidrolizado + Colágeno topi 1, Proteina, Vitamina C y Biotina®",
+  category:"Salud",
+  price:66000,
+  images:["Imagenes/Productos/Salud/Batido de multicolágeno hidrolizado + Colágeno topi 1, Proteina, Vitamina C y Biotina®.png",
+          "Imagenes/Productos/Salud/Batido de multicolágeno hidrolizado + Colágeno topi 1, Proteina, Vitamina C y Biotina® 2.png"]},             
+
+{id:71,
+  name:"Creatine monohydrate for women®",
+  category:"Salud",
+  price:64000,
+  images:["Imagenes/Productos/Salud/Creatine monohydrate for women®.png",
+          "Imagenes/Productos/Salud/Creatine monohydrate for women® 2.png"]},   
+          
+{id:72,
+  name:"Oregano & Pasuchaca (Formula premium) x3®",
+  category:"Salud",
+  price:130000,
+  images:["Imagenes/Productos/Salud/Oregano & Pasuchaca (Formula premium) x3®.png",
+          "Imagenes/Productos/Salud/Oregano & Pasuchaca (Formula premium) x3® 2.png"]},   
+
 ];
 
 let cart=JSON.parse(localStorage.getItem("karinitosCart")||"[]"), activeCategory="Todas";
