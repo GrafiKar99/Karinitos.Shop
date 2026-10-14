@@ -507,6 +507,27 @@ const products=[
   images:["Imagenes/Productos/Salud/Oregano & Pasuchaca (Formula premium) x3®.png",
           "Imagenes/Productos/Salud/Oregano & Pasuchaca (Formula premium) x3® 2.png"]},   
 
+{id:73,
+  name:"Mochila grande monograma GG negra®",
+  category:"Papelería",
+  price:120000,
+  images:["Imagenes/Productos/Papelería/Mochila grande monograma GG negra®.png",
+          "Imagenes/Productos/Papelería/Mochila grande monograma GG negra® 2.png"]}, 
+          
+{id:74,
+  name:"Mochila de viaje de gran capacidad para equipaje de mano®",
+  category:"Papelería",
+  price:130000,
+  images:["Imagenes/Productos/Papelería/Mochila de viaje de gran capacidad para equipaje de mano®.png",
+          "Imagenes/Productos/Papelería/Mochila de viaje de gran capacidad para equipaje de mano® 2.png"]}, 
+          
+{id:75,
+  name:"Mochila de cuero vintage de estilo retro®",
+  category:"Papelería",
+  price:110000,
+  images:["Imagenes/Productos/Papelería/Mochila de cuero vintage de estilo retro®.png",
+          "Imagenes/Productos/Papelería/Mochila de cuero vintage de estilo retro® 2.png"]}, 
+ 
 ];
 
 let cart=JSON.parse(localStorage.getItem("karinitosCart")||"[]"), activeCategory="Todas";
