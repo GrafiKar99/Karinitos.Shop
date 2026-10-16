@@ -527,6 +527,27 @@ const products=[
   price:110000,
   images:["Imagenes/Productos/Papelería/Mochila de cuero vintage de estilo retro®.png",
           "Imagenes/Productos/Papelería/Mochila de cuero vintage de estilo retro® 2.png"]}, 
+
+{id:76,
+  name:"Shampoo tinte negro 3 en 1®",
+  category:"Cuidado Capilar",
+  price:64000,
+  images:["Imagenes/Productos/Cuidado Capilar/Shampoo tinte negro 3 en 1®.png",
+          "Imagenes/Productos/Cuidado Capilar/Shampoo tinte negro 3 en 1® 2.png"]},   
+
+{id:77,
+  name:"Sérum de extracto de Jengibre & Nutrientes naturales®",
+  category:"Cuidado Capilar",
+  price:49000,
+  images:["Imagenes/Productos/Cuidado Capilar/Sérum de extrato de Jengibre & Nutrientes naturales®.png",
+          "Imagenes/Productos/Cuidado Capilar/Sérum de extrato de Jengibre & Nutrientes naturales® 2.png"]},   
+          
+{id:78,
+  name:"Sérum capilar para el crecimiento del cabello con aplicador x2 - ROLL - ON®",
+  category:"Cuidado Capilar",
+  price:70000,
+  images:["Imagenes/Productos/Cuidado Capilar/Sérum capilar para el crecimiento del cabello con aplicador x2 - ROLL - ON®.png",
+          "Imagenes/Productos/Cuidado Capilar/Sérum capilar para el crecimiento del cabello con aplicador x2 - ROLL - ON® 2.png"]},   
  
 ];
 
