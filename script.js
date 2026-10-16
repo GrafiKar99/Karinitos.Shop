@@ -548,6 +548,27 @@ const products=[
   price:70000,
   images:["Imagenes/Productos/Cuidado Capilar/Sérum capilar para el crecimiento del cabello con aplicador x2 - ROLL - ON®.png",
           "Imagenes/Productos/Cuidado Capilar/Sérum capilar para el crecimiento del cabello con aplicador x2 - ROLL - ON® 2.png"]},   
+
+{id:79,
+  name:"Leggins deportivos de tiro alto & Bolsillos laterales®",
+  category:"Ropa",
+  price:87000,
+  images:["Imagenes/Productos/Ropa/Leggins deportivos de tiro alto & Bolsillos laterales®.png",
+          "Imagenes/Productos/Ropa/Leggins deportivos de tiro alto & Bolsillos laterales® 2.png"]},
+
+{id:80,
+  name:"Jean wide leg de tiro alto, botonadura frontal y pliegues®",
+  category:"Ropa",
+  price:110000,
+  images:["Imagenes/Productos/Ropa/Jean wide leg de tiro alto, botonadura frontal y pliegues®.png",
+          "Imagenes/Productos/Ropa/Jean wide leg de tiro alto, botonadura frontal y pliegues®.png"]},          
+        
+{id:81,
+  name:"Falda short®",
+  category:"Ropa",
+  price:95000,
+  images:["Imagenes/Productos/Ropa/Falda short®.png",
+          "Imagenes/Productos/Ropa/Falda short®.png"]},
  
 ];
 
