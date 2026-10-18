@@ -569,6 +569,27 @@ const products=[
   price:95000,
   images:["Imagenes/Productos/Ropa/Falda short®.png",
           "Imagenes/Productos/Ropa/Falda short®.png"]},
+
+{id:82,
+  name:"Mini motosierra eléctrica inalámbrica de 48V®",
+  category:"Herramientas",
+  price:120000,
+  images:["Imagenes/Productos/Herramientas/Mini motocierra eléctrica inalámbrica de 48V®.png",
+          "Imagenes/Productos/Herramientas/Mini motocierra eléctrica inalámbrica de 48V® 2.png"]}, 
+          
+{id:83,
+  name:"Pistola de pintura inalámbrica HVLP®",
+  category:"Herramientas",
+  price:140000,
+  images:["Imagenes/Productos/Herramientas/Pistola de pintura inalámbrica HVLP®.png",
+          "Imagenes/Productos/Herramientas/Pistola de pintura inalámbrica HVLP® 2.png"]}, 
+          
+{id:84,
+  name:"Soplador & Aspiradora inalámbrico 2 en 1®",
+  category:"Herramientas",
+  price:110000,
+  images:["Imagenes/Productos/Herramientas/Soplador & Aspiradora inalámbrico 2 en 1®.png",
+          "Imagenes/Productos/Herramientas/Soplador & Aspiradora inalámbrico 2 en 1® 2.png"]}, 
  
 ];
 
