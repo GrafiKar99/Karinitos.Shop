@@ -590,6 +590,48 @@ const products=[
   price:110000,
   images:["Imagenes/Productos/Herramientas/Soplador & Aspiradora inalámbrico 2 en 1®.png",
           "Imagenes/Productos/Herramientas/Soplador & Aspiradora inalámbrico 2 en 1® 2.png"]}, 
+
+{id:85,
+  name:"Rodillo facial de hielo de silicona®",
+  category:"Skincare",
+  price:52000,
+  images:["Imagenes/Productos/Skincare/Rodillo facial de hielo de silicona®.png",
+          "Imagenes/Productos/Skincare/Rodillo facial de hielo de silicona® 2.png"]},
+          
+{id:86,
+  name:"Kit de crema KINEFF (Dia & Noche)®",
+  category:"Skincare",
+  price:56000,
+  images:["Imagenes/Productos/Skincare/Kit de crema KINEFF (Dia & Noche)®.png",
+          "Imagenes/Productos/Skincare/Kit de crema KINEFF (Dia & Noche)® 2.png"]},
+          
+{id:87,
+  name:"Crema depilatoria facial de durazno x2®",
+  category:"Skincare",
+  price:58000,
+  images:["Imagenes/Productos/Skincare/Crema depilatoria facial de durazno®.png",
+          "Imagenes/Productos/Skincare/Crema depilatoria facial de durazno® 2.png"]},
+          
+{id:88,
+  name:"Pads que te TONIFICAN & ILUMINAN tu rostro®",
+  category:"Skincare",
+  price:67000,
+  images:["Imagenes/Productos/Skincare/Pads que te TONIFICAN & ILUMINAN tu rostro® 2.png",
+          "Imagenes/Productos/Skincare/Pads que te TONIFICAN & ILUMINAN tu rostro®.png"]},
+          
+{id:89,
+  name:"Crema facial Antiedad & Antiacné (Premium Care)®",
+  category:"Skincare",
+  price:55000,
+  images:["Imagenes/Productos/Skincare/Crema facial Antiedad & Antiacné (Premium Care)® 2.png",
+          "Imagenes/Productos/Skincare/Crema facial Antiedad & Antiacné (Premium Care)®.png"]},
+          
+{id:90,
+  name:"Kit facial de Vitamina C (Mascarilla + Spray)®",
+  category:"Skincare",
+  price:50000,
+  images:["Imagenes/Productos/Skincare/Kit facial de Vitamina C (Mascarilla + Spray)®.png",
+          "Imagenes/Productos/Skincare/Kit facial de Vitamina C (Mascarilla + Spray)® 2.png"]},
  
 ];
 
