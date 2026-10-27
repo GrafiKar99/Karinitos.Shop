@@ -632,6 +632,48 @@ const products=[
   price:50000,
   images:["Imagenes/Productos/Skincare/Kit facial de Vitamina C (Mascarilla + Spray)®.png",
           "Imagenes/Productos/Skincare/Kit facial de Vitamina C (Mascarilla + Spray)® 2.png"]},
+
+{id:91,
+  name:"Collar TE AMO en 100 idiomas - Numeros romanos®",
+  category:"Accesorios",
+  price:58000,
+  images:["Imagenes/Productos/Accesorios/Collar TE AMO en 100 idiomas - Numeros romanos®.png",
+          "Imagenes/Productos/Accesorios/Collar TE AMO en 100 idiomas - Numeros romanos® 2.png"]},
+          
+{id:92,
+  name:"Anillo & Pulsera mágica retráctil 2 en 1®",
+  category:"Accesorios",
+  price:62000,
+  images:["Imagenes/Productos/Accesorios/Anillo & Pulsera magica retractil 2 en 1®.png",
+          "Imagenes/Productos/Accesorios/Anillo & Pulsera magica retractil 2 en 1®.png"]},
+          
+{id:93,
+  name:"Gafas de sol tipo ojo de gato con marco transparente y incrustaciones®",
+  category:"Accesorios",
+  price:70000,
+  images:["Imagenes/Productos/Accesorios/Gafas de sol tipo ojo de gato con marco transparente y incrustaciones®.png",
+          "Imagenes/Productos/Accesorios/Gafas de sol tipo ojo de gato con marco transparente y incrustaciones® 2.png"]},
+          
+{id:94,
+  name:"Reloj CURREN cronógrafo para hombre®",
+  category:"Accesorios",
+  price:130000,
+  images:["Imagenes/Productos/Accesorios/Reloj CURREN cronógrafo para hombre®.png",
+          "Imagenes/Productos/Accesorios/Reloj CURREN cronógrafo para hombre® 2.png"]},
+          
+{id:95,
+  name:"Anillo giratorio de San Benito con circones®",
+  category:"Accesorios",
+  price:77000,
+  images:["Imagenes/Productos/Accesorios/Anillo giratorio de San Benito con circones®.png",
+          "Imagenes/Productos/Accesorios/Anillo giratorio de San Benito con circones® 2.png"]},
+          
+{id:96,
+  name:"Gafas deportivas panorámicas - monolente®",
+  category:"Accesorios",
+  price:57000,
+  images:["Imagenes/Productos/Accesorios/Gafas deportivas panorámicas - monolente®.png",
+          "Imagenes/Productos/Accesorios/Gafas deportivas panorámicas - monolente® 2.png"]},
  
 ];
 
