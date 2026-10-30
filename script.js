@@ -2,6 +2,48 @@ const categories=
 ["Skincare","Accesorios","Perfumería","Maquillaje","Calzado","Hogar","Cocina","Mascotas","Tecnología","Salud","Papelería","Cuidado Capilar","Ropa","Herramientas"];
 
 const products=[
+
+{id:102,
+  name:"Eclaire de 100ml - Lattafa perfume®",
+  category:"Perfumería",
+  price:115000,
+  images:["Imagenes/Productos/Perfumería/Eclaire de 100ml - Lattafa perfume®.png",
+          "Imagenes/Productos/Perfumería/Eclaire de 100ml - Lattafa perfume® 2.png"]},   
+
+{id:101,
+  name:"Lattafa pride ART OF UNIVERSE de 100ml®",
+  category:"Perfumería",
+  price:120000,
+  images:["Imagenes/Productos/Perfumería/Lattafa pride ART OF UNIVERSE de 100ml®.png",
+          "Imagenes/Productos/Perfumería/Lattafa pride ART OF UNIVERSE de 100ml® 2.png"]},   
+
+{id:100,
+  name:"Emeer de 100ml - Lattafa perfume®",
+  category:"Perfumería",
+  price:130000,
+  images:["Imagenes/Productos/Perfumería/Emeer de 100ml - Lattafa perfume®.png",
+          "Imagenes/Productos/Perfumería/Emeer de 100ml - Lattafa perfume® 2.png"]},   
+
+{id:99,
+  name:"212 VIP black de 100ml®",
+  category:"Perfumería",
+  price:90000,
+  images:["Imagenes/Productos/Perfumería/212 VIP black de 100ml® 2.png",
+          "Imagenes/Productos/Perfumería/212 VIP black de 100ml®.png"]},   
+
+{id:98,
+  name:"Paco rabanne Black XS (Edición limitada)®",
+  category:"Perfumería",
+  price:90000,
+  images:["Imagenes/Productos/Perfumería/Paco rabanne Black XS (Edición limitada)®.png",
+          "Imagenes/Productos/Perfumería/Paco rabanne Black XS (Edición limitada)® 2.png"]},   
+
+{id:97,
+  name:"Bianco latte de 100ml®",
+  category:"Perfumería",
+  price:110000,
+  images:["Imagenes/Productos/Perfumería/Bianco latte de 100ml®.png",
+          "Imagenes/Productos/Perfumería/Bianco latte de 100ml® 2.png"]},   
         
 {id:96,
   name:"Gafas deportivas panorámicas - monolente®",
