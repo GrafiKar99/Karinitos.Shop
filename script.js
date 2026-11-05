@@ -2,6 +2,48 @@ const categories=
 ["Skincare","Accesorios","Perfumería","Maquillaje","Calzado","Hogar","Cocina","Mascotas","Tecnología","Salud","Papelería","Cuidado Capilar","Ropa","Herramientas"];
 
 const products=[
+  
+{id:108,
+  name:"Delineador en gel de larga duración®",
+  category:"Maquillaje",
+  price:53000,
+  images:["Imagenes/Productos/Maquillaje/Delineador en gel de larga duración®.png",
+          "Imagenes/Productos/Maquillaje/Delineador en gel de larga duración® 2.png"]},   
+
+{id:107,
+  name:"Base de maquillaje - Truly Matte®",
+  category:"Maquillaje",
+  price:78000,
+  images:["Imagenes/Productos/Maquillaje/Base de maquillaje - Truly Matte®.png",
+          "Imagenes/Productos/Maquillaje/Base de maquillaje - Truly Matte® 2.png"]},   
+
+{id:106,
+  name:"Tinta labial hidratante®",
+  category:"Maquillaje",
+  price:60000,
+  images:["Imagenes/Productos/Maquillaje/Tinta labial hidratante®.png",
+          "Imagenes/Productos/Maquillaje/Tinta labial hidratante® 2.png"]},   
+
+{id:105,
+  name:"Tónico facial de agua de rosas - Montoc®",
+  category:"Maquillaje",
+  price:82000,
+  images:["Imagenes/Productos/Maquillaje/Tónico facial de agua de rosas - Montoc®.png",
+          "Imagenes/Productos/Maquillaje/Tónico facial de agua de rosas - Montoc® 2.png"]},   
+
+{id:104,
+  name:"Set de bálsamo labial con extracto de frutas x3®",
+  category:"Maquillaje",
+  price:56000,
+  images:["Imagenes/Productos/Maquillaje/Set de bálsamo labial con extracto de frutas x3®.png",
+          "Imagenes/Productos/Maquillaje/Set de bálsamo labial con extracto de frutas x3® 2.png"]},   
+
+{id:103,
+  name:"Paleta de sombras x9 tonos®",
+  category:"Maquillaje",
+  price:74000,
+  images:["Imagenes/Productos/Maquillaje/Paleta de sombras x9 tonos®.png",
+          "Imagenes/Productos/Maquillaje/Paleta de sombras x9 tonos® 2.png"]},   
 
 {id:102,
   name:"Eclaire de 100ml - Lattafa perfume®",
