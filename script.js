@@ -3,6 +3,48 @@ const categories=
 
 const products=[
   
+{id:114,
+  name:"Tenis casual de cuero con plataforma - Vélez®",
+  category:"Calzado",
+  price:100000,
+  images:["Imagenes/Productos/Calzado/Tenis casual de cuero con plataforma - Vélez®.png",
+          "Imagenes/Productos/Calzado/Tenis casual de cuero con plataforma - Vélez® 2.png"]}, 
+
+{id:113,
+  name:"Tenis deportivos urbanos - Vélez®",
+  category:"Calzado",
+  price:110000,
+  images:["Imagenes/Productos/Calzado/Tenis deportivos urbanos - Vélez®.png",
+          "Imagenes/Productos/Calzado/Tenis deportivos urbanos - Vélez® 2.png"]}, 
+
+{id:112,
+  name:"Zapatillas urbanas samba vegan - Adidas®",
+  category:"Calzado",
+  price:100000,
+  images:["Imagenes/Productos/Calzado/Zapatillas urbanas samba vegan - Adidas®.png",
+          "Imagenes/Productos/Calzado/Zapatillas urbanas samba vegan - Adidas® 2.png"]}, 
+
+{id:111,
+  name:"Calzado casual - Veja®",
+  category:"Calzado",
+  price:100000,
+  images:["Imagenes/Productos/Calzado/Calzado casual - Veja®.png",
+          "Imagenes/Productos/Calzado/Calzado casual - Veja® 2.png"]}, 
+
+{id:110,
+  name:"Tenis deportivos (Retro chunky)®",
+  category:"Calzado",
+  price:150000,
+  images:["Imagenes/Productos/Calzado/Tenis deportivos (Retro chunky)®.png",
+          "Imagenes/Productos/Calzado/Tenis deportivos (Retro chunky)® 2.png"]}, 
+
+{id:109,
+  name:"Tenis de plataforma - Nike®",
+  category:"Calzado",
+  price:107000,
+  images:["Imagenes/Productos/Calzado/Tenis casual de cuero con plataforma - Vélez®.png",
+          "Imagenes/Productos/Calzado/Tenis casual de cuero con plataforma - Vélez® 2.png"]}, 
+  
 {id:108,
   name:"Delineador en gel de larga duración®",
   category:"Maquillaje",
