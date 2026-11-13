@@ -3,6 +3,13 @@ const categories=
 
 const products=[
   
+{id:115,
+  name:"Lámpara solar decorativa para jardín estilo mariposa®",
+  category:"Hogar",
+  price:65000,
+  images:["Imagenes/Productos/Hogar/Lámpara solar decorativa para jardín estilo mariposa®.png",
+          "Imagenes/Productos/Hogar/Lámpara solar decorativa para jardín estilo mariposa® 2.png"]}, 
+  
 {id:114,
   name:"Tenis casual de cuero con plataforma - Vélez®",
   category:"Calzado",
