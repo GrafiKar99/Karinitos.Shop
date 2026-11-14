@@ -3,6 +3,13 @@ const categories=
 
 const products=[
   
+{id:116,
+  name:"Cubrelecho piel de durazno®",
+  category:"Hogar",
+  price:200000,
+  images:["Imagenes/Productos/Hogar/Cubrelecho piel de durazno®.jpeg",
+          "Imagenes/Productos/Hogar/Cubrelecho piel de durazno®.jpeg"]}, 
+  
 {id:115,
   name:"Lámpara solar decorativa para jardín estilo mariposa®",
   category:"Hogar",
