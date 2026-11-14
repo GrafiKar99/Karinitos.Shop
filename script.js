@@ -2,6 +2,13 @@ const categories=
 ["Skincare","Accesorios","Perfumería","Maquillaje","Calzado","Hogar","Cocina","Mascotas","Tecnología","Salud","Papelería","Cuidado Capilar","Ropa","Herramientas"];
 
 const products=[
+  
+{id:118,
+  name:"Alfombra / Tapete peludo ovalado liso de 60x120 cm®",
+  category:"Hogar",
+  price:74000,
+  images:["Imagenes/Productos/Hogar/Alfombra Tapete peludo ovalado liso de 60x120 cm®.jpeg",
+          "Imagenes/Productos/Hogar/Alfombra Tapete peludo ovalado liso de 60x120 cm® 2.jpeg"]}, 
 
 {id:117,
   name:"Almohada ergonómica de espuma viscoelástica®",
