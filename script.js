@@ -2,7 +2,14 @@ const categories=
 ["Skincare","Accesorios","Perfumería","Maquillaje","Calzado","Hogar","Cocina","Mascotas","Tecnología","Salud","Papelería","Cuidado Capilar","Ropa","Herramientas"];
 
 const products=[
-  
+
+{id:117,
+  name:"Almohada ergonómica de espuma viscoelástica®",
+  category:"Hogar",
+  price:77000,
+  images:["Imagenes/Productos/Hogar/Almohada ergonómica de espuma viscoelástica®.jpg",
+          "Imagenes/Productos/Hogar/Almohada ergonómica de espuma viscoelástica® 2.jpg"]}, 
+
 {id:116,
   name:"Cubrelecho piel de durazno®",
   category:"Hogar",
