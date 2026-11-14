@@ -3,6 +3,13 @@ const categories=
 
 const products=[
   
+{id:119,
+  name:"Almohada estrella semiortopédica con funda adicional®",
+  category:"Hogar",
+  price:100000,
+  images:["Imagenes/Productos/Hogar/Almohada estrella semiortopédica con funda adicional®.jpeg",
+          "Imagenes/Productos/Hogar/Almohada estrella semiortopédica con funda adicional® 2.jpeg"]}, 
+  
 {id:118,
   name:"Alfombra / Tapete peludo ovalado liso de 60x120 cm®",
   category:"Hogar",
