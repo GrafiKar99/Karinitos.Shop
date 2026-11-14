@@ -3,6 +3,13 @@ const categories=
 
 const products=[
   
+{id:120,
+  name:"Sofá / Sillón inflable con reposapiés®",
+  category:"Hogar",
+  price:100000,
+  images:["Imagenes/Productos/Hogar/Sofá - Sillón inflable con reposapiés®.jpeg",
+          "Imagenes/Productos/Hogar/Sofá - Sillón inflable con reposapiés® 2.jpeg"]}, 
+  
 {id:119,
   name:"Almohada estrella semiortopédica con funda adicional®",
   category:"Hogar",
