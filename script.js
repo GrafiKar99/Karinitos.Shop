@@ -3,6 +3,13 @@ const categories=
 
 const products=[
   
+{id:121,
+  name:"Termo térmico de acero inoxidable x3 tazas - 500 ml®",
+  category:"Cocina",
+  price:60000,
+  images:["Imagenes/Productos/Cocina/Termo térmico de acero inoxidable x3 tazas - 500 ml®.jpeg",
+          "Imagenes/Productos/Cocina/Termo térmico de acero inoxidable x3 tazas - 500 ml® 2.jpeg",]},
+  
 {id:120,
   name:"Sofá / Sillón inflable con reposapiés®",
   category:"Hogar",
