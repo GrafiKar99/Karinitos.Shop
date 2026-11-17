@@ -3,6 +3,13 @@ const categories=
 
 const products=[
   
+{id:122,
+  name:"Sartén antiadherente de 4 puestos multiusos®",
+  category:"Cocina",
+  price:66000,
+  images:["Imagenes/Productos/Cocina/Sartén antiadherente de 4 puestos multiusos®.jpeg",
+          "Imagenes/Productos/Cocina/Sartén antiadherente de 4 puestos multiusos® 2.jpeg"]},
+ 
 {id:121,
   name:"Termo térmico de acero inoxidable x3 tazas - 500 ml®",
   category:"Cocina",
