@@ -3,6 +3,13 @@ const categories=
 
 const products=[
   
+{id:124,
+  name:"Cepillo de esponja de esmeril con mango ergonómico®",
+  category:"Cocina",
+  price:50000,
+  images:["Imagenes/Productos/Cocina/Cepillo de esponja de esmeril con mango ergonómico®.jpeg",
+          "Imagenes/Productos/Cocina/Cepillo de esponja de esmeril con mango ergonómico® 2.jpeg"]},
+  
 {id:123,
   name:"Dispensador de agua eléctrico con inteligencia táctil®",
   category:"Cocina",
