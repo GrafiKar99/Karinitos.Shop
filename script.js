@@ -3,6 +3,13 @@ const categories=
 
 const products=[
   
+{id:123,
+  name:"Dispensador de agua eléctrico con inteligencia táctil®",
+  category:"Cocina",
+  price:54000,
+  images:["Imagenes/Productos/Cocina/Dispensador de agua eléctrico con inteligencia táctil® 2.jpeg",
+          "Imagenes/Productos/Cocina/Dispensador de agua eléctrico con inteligencia táctil®.jpeg"]},
+  
 {id:122,
   name:"Sartén antiadherente de 4 puestos multiusos®",
   category:"Cocina",
