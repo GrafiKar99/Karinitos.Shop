@@ -3,6 +3,13 @@ const categories=
 
 const products=[
 
+{id:126,
+  name:"Embutidora manual vertical de Salchicha & Chorizo®",
+  category:"Cocina",
+  price:80000,
+  images:["Imagenes/Productos/Cocina/Embutidora manual vertical de Salchicha & Chorizo® 2.jpeg",
+          "Imagenes/Productos/Cocina/Embutidora manual vertical de Salchicha & Chorizo®.jpeg"]},
+
 {id:125,
   name:"Juego de ollas antiadherentes de 13 piezas®",
   category:"Cocina",
