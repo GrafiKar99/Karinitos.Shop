@@ -2,7 +2,14 @@ const categories=
 ["Skincare","Accesorios","Perfumería","Maquillaje","Calzado","Hogar","Cocina","Mascotas","Tecnología","Salud","Papelería","Cuidado Capilar","Ropa","Herramientas"];
 
 const products=[
-  
+
+{id:125,
+  name:"Juego de ollas antiadherentes de 13 piezas®",
+  category:"Cocina",
+  price:77000,
+  images:["Imagenes/Productos/Cocina/Juego de ollas antiadherentes de 13 piezas® 2.png",
+          "Imagenes/Productos/Cocina/Juego de ollas antiadherentes de 13 piezas® 2.png"]},
+
 {id:124,
   name:"Cepillo de esponja de esmeril con mango ergonómico®",
   category:"Cocina",
