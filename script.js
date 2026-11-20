@@ -3,6 +3,13 @@ const categories=
 
 const products=[
 
+{id:129,
+  name:"Fuente de agua automático para mascotas (Bebedero transparente)®",
+  category:"Mascotas",
+  price:82000,
+  images:["Imagenes/Productos/Mascotas/Fuente de agua automático para mascotas (Bebedero transparente)®.jpeg",
+          "Imagenes/Productos/Mascotas/Fuente de agua automático para mascotas (Bebedero transparente)® 2.jpeg"]},   
+
 {id:128,
   name:"Set de tijeras para mascotas®",
   category:"Mascotas",
