@@ -3,6 +3,27 @@ const categories=
 
 const products=[
 
+{id:132,
+  name:"Cama ortopédica para perritos®",
+  category:"Mascotas",
+  price:100000,
+  images:["Imagenes/Productos/Mascotas/Cama ortopédica para perritos®.jpeg",
+          "Imagenes/Productos/Mascotas/Cama ortopédica para perritos® 2.jpeg"]},   
+
+{id:131,
+  name:"Spray de cuidado bucal para tu mascota®",
+  category:"Mascotas",
+  price:55000,
+  images:["Imagenes/Productos/Mascotas/Spray de cuidado bucal para tu mascota® 2.jpeg",
+          "Imagenes/Productos/Mascotas/Spray de cuidado bucal para tu mascota®.jpeg"]},   
+
+{id:130,
+  name:"Recogedor de heces portátil 2 en 1 para mascotas®",
+  category:"Mascotas",
+  price:73000,
+  images:["Imagenes/Productos/Mascotas/Recogedor de heces portátil 2 en 1 para mascotas®.jpeg",
+          "Imagenes/Productos/Mascotas/Recogedor de heces portátil 2 en 1 para mascotas® 2.jpeg"]},   
+
 {id:129,
   name:"Fuente de agua automático para mascotas (Bebedero transparente)®",
   category:"Mascotas",
