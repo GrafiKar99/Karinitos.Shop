@@ -3,6 +3,13 @@ const categories=
 
 const products=[
 
+{id:128,
+  name:"Set de tijeras para mascotas®",
+  category:"Mascotas",
+  price:68000,
+  images:["Imagenes/Productos/Mascotas/Set de tijeras para mascotas® 2.jpg",
+          "Imagenes/Productos/Mascotas/Set de tijeras para mascotas®.jpg"]},   
+
 {id:127,
   name:"Tapete sanitario de Potty Patch®",
   category:"Mascotas",
