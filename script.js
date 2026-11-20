@@ -3,6 +3,13 @@ const categories=
 
 const products=[
 
+{id:127,
+  name:"Tapete sanitario de Potty Patch®",
+  category:"Mascotas",
+  price:87000,
+  images:["Imagenes/Productos/Mascotas/Tapete sanitario de Potty Patch®.png",
+          "Imagenes/Productos/Mascotas/Tapete sanitario de Potty Patch®.png"]},   
+
 {id:126,
   name:"Embutidora manual vertical de Salchicha & Chorizo®",
   category:"Cocina",
