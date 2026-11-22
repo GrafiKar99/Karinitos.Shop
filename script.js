@@ -3,6 +3,48 @@ const categories=
 
 const products=[
 
+{id:138,
+  name:"Auriculares inalámbricos MARSHALL MAJOR IV (Calidad AAA)®",
+  category:"Tecnología",
+  price:80000,
+  images:["Imagenes/Productos/Tecnología/Auriculares inalámbricos MARSHALL MAJOR IV (Calidad AAA)®.jpeg",
+          "Imagenes/Productos/Tecnología/Auriculares inalámbricos MARSHALL MAJOR IV (Calidad AAA)® 2.jpeg"]},   
+
+{id:137,
+  name:"Cámara deportiva 4K ultra HD impermeable®",
+  category:"Tecnología",
+  price:115000,
+  images:["Imagenes/Productos/Tecnología/Cámara deportiva 4K ultra HD impermeable®.jpeg",
+          "Imagenes/Productos/Tecnología/Cámara deportiva 4K ultra HD impermeable® 2.jpeg"]},   
+
+{id:136,
+  name:"Audífonos AMBIE (Conducción ósea)®",
+  category:"Tecnología",
+  price:65000,
+  images:["Imagenes/Productos/Tecnología/Audífonos AMBIE (Conducción ósea)®.jpeg",
+          "Imagenes/Productos/Tecnología/Audífonos AMBIE (Conducción ósea)® 2.jpeg"]},   
+
+{id:135,
+  name:"Cámara de seguridad robótica wifi de 3 antenas (Vision nocturna HD)®",
+  category:"Tecnología",
+  price:77000,
+  images:["Imagenes/Productos/Tecnología/Cámara de seguridad robótica wifi de 3 antenas (Vision nocturna HD)®.jpeg",
+          "Imagenes/Productos/Tecnología/Cámara de seguridad robótica wifi de 3 antenas (Vision nocturna HD)® 2.jpeg"]},   
+
+{id:134,
+  name:"Parlante cilíndrico RGB impermeable de 15w®",
+  category:"Tecnología",
+  price:135000,
+  images:["Imagenes/Productos/Tecnología/Parlante cilíndrico RGB impermeable de 15w®.jpeg",
+          "Imagenes/Productos/Tecnología/Parlante cilíndrico RGB impermeable de 15w® 2.jpeg"]},   
+
+{id:133,
+  name:"Parlante JBL boombox 3 AAA®",
+  category:"Tecnología",
+  price:120000,
+  images:["Imagenes/Productos/Tecnología/Parlante JBL boombox 3 AAA®.jpeg",
+          "Imagenes/Productos/Tecnología/Parlante JBL boombox 3 AAA® 2.jpeg"]},   
+
 {id:132,
   name:"Cama ortopédica para perritos®",
   category:"Mascotas",
@@ -65,42 +107,42 @@ const products=[
   price:50000,
   images:["Imagenes/Productos/Cocina/Cepillo de esponja de esmeril con mango ergonómico®.jpeg",
           "Imagenes/Productos/Cocina/Cepillo de esponja de esmeril con mango ergonómico® 2.jpeg"]},
-  
+
 {id:123,
   name:"Dispensador de agua eléctrico con inteligencia táctil®",
   category:"Cocina",
   price:54000,
   images:["Imagenes/Productos/Cocina/Dispensador de agua eléctrico con inteligencia táctil® 2.jpeg",
           "Imagenes/Productos/Cocina/Dispensador de agua eléctrico con inteligencia táctil®.jpeg"]},
-  
+
 {id:122,
   name:"Sartén antiadherente de 4 puestos multiusos®",
   category:"Cocina",
   price:66000,
   images:["Imagenes/Productos/Cocina/Sartén antiadherente de 4 puestos multiusos®.jpeg",
           "Imagenes/Productos/Cocina/Sartén antiadherente de 4 puestos multiusos® 2.jpeg"]},
- 
+
 {id:121,
   name:"Termo térmico de acero inoxidable x3 tazas - 500 ml®",
   category:"Cocina",
   price:60000,
   images:["Imagenes/Productos/Cocina/Termo térmico de acero inoxidable x3 tazas - 500 ml®.jpeg",
           "Imagenes/Productos/Cocina/Termo térmico de acero inoxidable x3 tazas - 500 ml® 2.jpeg",]},
-  
+
 {id:120,
   name:"Sofá / Sillón inflable con reposapiés®",
   category:"Hogar",
   price:100000,
   images:["Imagenes/Productos/Hogar/Sofá - Sillón inflable con reposapiés®.jpeg",
           "Imagenes/Productos/Hogar/Sofá - Sillón inflable con reposapiés® 2.jpeg"]}, 
-  
+
 {id:119,
   name:"Almohada estrella semiortopédica con funda adicional®",
   category:"Hogar",
   price:100000,
   images:["Imagenes/Productos/Hogar/Almohada estrella semiortopédica con funda adicional®.jpeg",
           "Imagenes/Productos/Hogar/Almohada estrella semiortopédica con funda adicional® 2.jpeg"]}, 
-  
+
 {id:118,
   name:"Alfombra / Tapete peludo ovalado liso de 60x120 cm®",
   category:"Hogar",
@@ -121,14 +163,14 @@ const products=[
   price:200000,
   images:["Imagenes/Productos/Hogar/Cubrelecho piel de durazno®.jpeg",
           "Imagenes/Productos/Hogar/Cubrelecho piel de durazno®.jpeg"]}, 
-  
+
 {id:115,
   name:"Lámpara solar decorativa para jardín estilo mariposa®",
   category:"Hogar",
   price:65000,
   images:["Imagenes/Productos/Hogar/Lámpara solar decorativa para jardín estilo mariposa®.png",
           "Imagenes/Productos/Hogar/Lámpara solar decorativa para jardín estilo mariposa® 2.png"]}, 
-  
+
 {id:114,
   name:"Tenis casual de cuero con plataforma - Vélez®",
   category:"Calzado",
@@ -170,7 +212,7 @@ const products=[
   price:107000,
   images:["Imagenes/Productos/Calzado/Tenis casual de cuero con plataforma - Vélez®.png",
           "Imagenes/Productos/Calzado/Tenis casual de cuero con plataforma - Vélez® 2.png"]}, 
-  
+
 {id:108,
   name:"Delineador en gel de larga duración®",
   category:"Maquillaje",
@@ -254,7 +296,7 @@ const products=[
   price:110000,
   images:["Imagenes/Productos/Perfumería/Bianco latte de 100ml®.png",
           "Imagenes/Productos/Perfumería/Bianco latte de 100ml® 2.png"]},   
-        
+
 {id:96,
   name:"Gafas deportivas panorámicas - monolente®",
   category:"Accesorios",
