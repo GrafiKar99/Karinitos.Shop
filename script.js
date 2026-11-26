@@ -3,6 +3,48 @@ const categories=
 
 const products=[
 
+{id:144,
+  name:"Melatonin 12mg (Alta potencia)®",
+  category:"Salud",
+  price:100000,
+  images:["Imagenes/Productos/Salud/Melatonin 12mg (Alta potencia)®.jpeg",
+          "Imagenes/Productos/Salud/Melatonin 12mg (Alta potencia)® 2.jpeg"]}, 
+
+{id:143,
+  name:"Multivitamínico para hombres - Rainbow light men's one+®",
+  category:"Salud",
+  price:70000,
+  images:["Imagenes/Productos/Salud/Multivitamínico para hombres - Rainbow light men's one+®.jpeg",
+          "Imagenes/Productos/Salud/Multivitamínico para hombres - Rainbow light men's one+® 2.jpeg"]}, 
+
+{id:142,
+  name:"Crema reductora & anticelulítica con cafeína activa y cocó®",
+  category:"Salud",
+  price:55000,
+  images:["Imagenes/Productos/Salud/Crema reductora & anticelulítica con cafeína activa y cocó®.jpeg",
+          "Imagenes/Productos/Salud/Crema reductora & anticelulítica con cafeína activa y cocó® 2.jpeg"]}, 
+
+{id:141,
+  name:"Suplemento TEX ULTRA potencializador sexual®",
+  category:"Salud",
+  price:70000,
+  images:["Imagenes/Productos/Salud/Suplemento TEX ULTRA potencializador sexual®.jpeg",
+          "Imagenes/Productos/Salud/Suplemento TEX ULTRA potencializador sexual® 2.jpeg"]}, 
+
+{id:140,
+  name:"Suplemento en cápsula formula natural para mujer - True Fem®",
+  category:"Salud",
+  price:70000,
+  images:["Imagenes/Productos/Salud/Suplemento en cápsula formula natural para mujer - True Fem®.jpeg",
+          "Imagenes/Productos/Salud/Suplemento en cápsula formula natural para mujer - True Fem® 2.jpeg"]}, 
+
+{id:139,
+  name:"Suplemento nutritivo - Fisio Forte 100% orgánico®",
+  category:"Salud",
+  price:55000,
+  images:["Imagenes/Productos/Salud/Suplemento nutritivo - Fisio Forte 100% orgánico®.jpeg",
+          "Imagenes/Productos/Salud/Suplemento nutritivo - Fisio Forte 100% orgánico® 2.jpeg"]}, 
+
 {id:138,
   name:"Auriculares inalámbricos MARSHALL MAJOR IV (Calidad AAA)®",
   category:"Tecnología",
