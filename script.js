@@ -42,8 +42,8 @@ const products=[
   name:"Suplemento nutritivo - Fisio Forte 100% orgánico®",
   category:"Salud",
   price:55000,
-  images:["Imagenes/Productos/Salud/Suplemento nutritivo - Fisio Forte 100% orgánico®.png",
-          "Imagenes/Productos/Salud/Suplemento nutritivo - Fisio Forte 100% orgánico® 2.png"]}, 
+  images:["Imagenes/Productos/Salud/Suplemento nutritivo Fisio Forte 100% orgánico®.png",
+          "Imagenes/Productos/Salud/Suplemento nutritivo Fisio Forte 100% orgánico® 2.png"]}, 
 
 {id:138,
   name:"Auriculares inalámbricos MARSHALL MAJOR IV (Calidad AAA)®",
